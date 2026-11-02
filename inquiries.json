@@ -1,0 +1,14 @@
+[
+  {"id": 1, "text": "注文した品物がまだ届きません。注文番号はA-1021です。発送予定日から1週間たっています。", "team": "shipping", "urgent": false},
+  {"id": 2, "text": "届いたマグカップが割れていました。返品して返金してもらえますか。", "team": "returns", "urgent": false},
+  {"id": 3, "text": "クレジットカードで同じ注文が2回引き落とされています！今日中に対応してください。", "team": "payment", "urgent": true},
+  {"id": 4, "text": "このリュックは防水ですか？雨の日の通勤に使いたいと考えています。", "team": "product", "urgent": false},
+  {"id": 5, "text": "明日の誕生日に間に合わせたいのですが、配送先の住所を間違えてしまいました。至急変更できますか。", "team": "shipping", "urgent": true},
+  {"id": 6, "text": "いつも楽しく見ています。新商品のカタログを送ってもらうことはできますか。", "team": "other", "urgent": false},
+  {"id": 7, "text": "サイズが合わなかったので交換したいです。未使用でタグも付いています。", "team": "returns", "urgent": false},
+  {"id": 8, "text": "コンビニ払いを選んだのに、支払い番号のメールが来ていません。期限は明日までです。", "team": "payment", "urgent": true},
+  {"id": 9, "text": "3回問い合わせても返事がありません。もう二度と利用しません。返金しないなら消費者センターに相談します。", "team": "returns", "urgent": true},
+  {"id": 10, "text": "この電気ケトルの保証期間は何年ですか。", "team": "product", "urgent": false},
+  {"id": 11, "text": "領収書の宛名を会社名に変えて再発行してほしいです。", "team": "payment", "urgent": false},
+  {"id": 12, "text": "御社の倉庫で働きたいのですが、求人はありますか。", "team": "other", "urgent": false}
+]
